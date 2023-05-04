@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import * as ROUTES from "../constants/routes";
+import * as ROUTES from "../../constants/routes";
 
 export default function Logo() {
     return <div className="text-gray-700 text-center flex items-center align-items cursor-pointer">

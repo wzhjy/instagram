@@ -1,6 +1,6 @@
 import { Link, useHistory } from "react-router-dom";
-import * as ROUTES from "../constants/routes";
-import useFirebase from "../hooks/use-firebase";
+import * as ROUTES from "../../constants/routes";
+import useFirebase from "../../hooks/use-firebase";
 
 
 export default function SignOut() {

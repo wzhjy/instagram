@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import * as ROUTES from "../constants/routes";
+import * as ROUTES from "../../constants/routes";
 
 export default function ToSignUp() {
   return <Link to={ROUTES.SIGN_UP}>

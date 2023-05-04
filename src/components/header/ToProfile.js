@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { DEFAULT_IMAGE_PATH } from "../constants/paths";
+import { DEFAULT_IMAGE_PATH } from "../../constants/paths";
 
 export default function ToProfile(props) {
     const { user } = props;
